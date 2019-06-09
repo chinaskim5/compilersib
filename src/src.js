@@ -1,4 +1,3 @@
-function main {
 	var c = 1212;
 	var b = 44444;
 	var bb = "ssss"
@@ -12,4 +11,4 @@ function main {
 	{
 		return 0;
 	}
-}
+
